@@ -1,4 +1,4 @@
 # ims
 Long L
 
-https://editor.p5js.org/iscodd/sketches/1yQTxD1OB
+https://github.com/iscodd/ims/tree/main/ims02-Long
